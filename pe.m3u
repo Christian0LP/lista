@@ -320,5 +320,4 @@ https://stmv.panel.grupolimalive.com/xtv/xtv/playlist.m3u8
 #EXTINF:-1 tvg-id="XTVChachapoyas.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/canalxtvperu/picture?width=320&height=320" group-title="Local",BT SPORT [Not 24/7]
 http://89.187.185.100/BT_SPORTS_2/tracks-v1a1/mono.m3u
 #EXTINF:-1 tvg-id="espn" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-S%C3%ADmbolo.jpg" group-title="Local",Espn
-https://edge1-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/ESPN2HD.mpd
-
+https://edge1-sl.cvattv.com.ar/live/c3eds/ESPN2HD/SA_Live_dash_enc_2A/dash/ESPN2HD-audio_20001=145200.track_id=20001-10167397704576.mp4
