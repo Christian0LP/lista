@@ -16,5 +16,5 @@ https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1 tvg-id="RPP.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/RPP_TV_-_2017_logo.png" group-title="Nacionales",RPP TV
 http://38.131.11.9:1080/play/a0d8
-#EXTINF:-1 tvg-id="RPP.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/RPP_TV_-_2017_logo.png" group-title="Nacionales",America
-https://us-b4-p-e-xy7.cdn.mdstrm.com/live-stream-secure/6099b04d9418ac082441dd74/publish/media_2500.m3u8?aid=5b8ea6f89ff52d0770a144c4&uid=zn8BmSH2fOOcS88znLURvT2OzyW8ydWF&sid=e90DgzCrS7U5LZ5lMhL0wV6ZyPGvHNXq&pid=l3w3x9p65azx6cZeDJm0hbUAWIH7Y0z3&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&without_cookies=false&dnt=true&access_token=djIR8ztEYUFUo82JKC1il93Sv7RAn6vK9n9BHbqCMcxqqxITICiOZRhVwVNm8sVABtUElav78vW&es=us-b4-p-e-xy7.cdn.mdstrm.com&ote=1631992848950&ot=006blxmQKPpBoPHYuJU3Pw&proto=https&pz=us
+#EXTINF:-1 tvg-id="Bethel" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://streann.akamaized.net/upload2/1582907702290.png" group-title="Cristianos",Bethel TV
+https://ott.streann.com/loadbalancer/services/v1/channels-secure/5e0689c82cdcb4fdbcd79151/playlist.m3u8?access_token=93e84268-1fba-4b62-b714-896549c12eaa&device-id=ALfOgrVfftMPMLHcQGOsN2k5lRmfoAjdcv0cz3rZfdBTYS1UmX&device-type=web&device-name=web&doNotUseRedirect=false&start-index=0&time-zone=(hora%20est%C3%A1ndar%20de%20Per%C3%BA),hora%20est%C3%A1ndar%20de%20Per%C3%BA&dvrTime=3600
