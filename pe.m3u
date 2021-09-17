@@ -319,5 +319,6 @@ https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.daily
 https://stmv.panel.grupolimalive.com/xtv/xtv/playlist.m3u8
 #EXTINF:-1 tvg-id="XTVChachapoyas.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/canalxtvperu/picture?width=320&height=320" group-title="Local",BT SPORT [Not 24/7]
 http://89.187.185.100/BT_SPORTS_2/tracks-v1a1/mono.m3u
-#EXTINF:-1 tvg-id="gaaa" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/CongresoPeru/picture?width=320&height=320" group-title="Legislative",GAAA
-https://query-streamlink.herokuapp.com/iptv-query?streaming-ip=https://www.youtube.com/watch?v=e97w-GHsRMY
+#EXTINF:-1 tvg-id="espn" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-S%C3%ADmbolo.jpg" group-title="Local",Espn
+https://e10.cdnfoxtv.me/ingestnb4s/espn_sur/c.m3u8
+
