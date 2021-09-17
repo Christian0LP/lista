@@ -111,7 +111,7 @@ https://pe-atv-atv-mas-live.ned.media:443/atv/smil:atv-mas.smil/chunklist_b10240
 #EXTINF:-1 tvg-id="KBOQuillabamba.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/OficialKBO/picture?width=320&height=320" group-title="Local",KBO Quillabamba [Not 24/7]
 https://cdnhd.iblups.com/hls/YGpW43RUOD.m3u8
 #EXTINF:-1 tvg-id="America" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://media-exp1.licdn.com/dms/image/C560BAQEBJWjc7EkJrw/company-logo_200_200/0/1519889865817?e=1640217600&v=beta&t=Fz1rAceJdDXgCDbh88OMOR8F1or_fjOmsndO_cmijL4" group-title="Local",America [Not 24/7]
-http://flowfhd.xyz:25461/Annabelle/12345/178754
+https://us-b5-p-e-kj2.cdn.mdstrm.com/live-stream-secure/6099b04d9418ac082441dd74/publish/media_2500.m3u8?aid=5b8ea6f89ff52d0770a144c4&uid=0l4nttdfOLKQ1uis9JWYOwJ7VJr9WN41&sid=IiOYCVtNz3b3hoiFHC6h0FEPXBvHvuIa&pid=JDbcU0efEOUZrJ0221TXshPAB7yiluX2&ref=https%3A%2F%2Ftvgo.americatv.com.pe%2F&without_cookies=false&dnt=true&access_token=4kuHd3X9xdeBIiPXvyXH0FBAki1aeYVTPSTPu6DwcqzIOW6NAZva2PWjwyZhpwjPV1kQfryl2oG&es=us-b5-p-e-kj2.cdn.mdstrm.com&ote=1631980706157&ot=88ry0gq70lXXoUD5B4GXTw&proto=https&pz=us
 #EXTINF:-1 tvg-id="KoraTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/JJRODRIGUEZKORARTV/picture?width=320&height=320" group-title="Entertainment",Kora TV [Not 24/7]
 https://megastreamm.com:3362/live/koratvlive.m3u8
 #EXTINF:-1 tvg-id="LaRiberena.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/lariberenapucallpa/picture?width=320&height=320" group-title="Local",La Ribereña (Pucallpa) [Not 24/7]
