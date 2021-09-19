@@ -1,9 +1,9 @@
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Nacional",Panamericana TV
 https://stream-03.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFs9OxpkZtIMb8dKN1rAqTLs)/dm/3/x774s7s/s/live-3.m3u8#cell=lnyc
 #EXTINF:-1 tvg-id="ATV" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/800px-ATV_logo_2020.png" group-title="Nacional",ATV
-https://pe-atv-atv-live.ned.media:443/atv/smil:atv.smil/chunklist_b1024000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjMxOTMzNDMzLCJzZXNzaW9uIjoiMTc5LjcuMjI2LjgwIiwid2hpdGVsaXN0IjpbIjE3OS43LjIyNi44MCJdfSwic2lnbmF0dXJlIjoiOTQ4MTE4YTQ0ZTFlZTk4M2EyM2U2MGRjNDc0MjJhMGFiNjhmZDM5MCJ9
+https://pe-atv-atv-live.ned.media/atv/smil:atv.smil/chunklist_b1024000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjMyMTAzMDM2LCJzZXNzaW9uIjoiMTc5LjcuMjI2LjgwIiwid2hpdGVsaXN0IjpbIjE3OS43LjIyNi44MCIsIjI4MDA6MjAwOmY1NzA6MWNlOmYwMmE6MjVlZDo5MWZkOjlhOTkiXX0sInNpZ25hdHVyZSI6IjQxZjYxNDRjM2M4NWU0Nzc1OWU0YTRmYjY1ZWIzMDhhODBkMzY5NDkifQ%3D%3D
 #EXTINF:-1 tvg-id="ATV+" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV%2B_logo_2020.png" group-title="Nacional",ATV+  
-https://pe-atv-atv-mas-live.ned.media:443/atv/smil:atv-mas.smil/chunklist_b1024000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjMxOTM0ODA3LCJzZXNzaW9uIjoiMTc5LjcuMjI2LjgwIiwid2hpdGVsaXN0IjpbIjE3OS43LjIyNi44MCJdfSwic2lnbmF0dXJlIjoiM2VjY2FiZDRlMmFlYWVlM2RhNTJhMjAzNmMyMjJiMjlhNTU3ZjgzNSJ9
+https://pe-atv-atv-mas-live.ned.media/atv/smil:atv-mas.smil/chunklist_b200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjMyMTAzMTIwLCJzZXNzaW9uIjoiMTc5LjcuMjI2LjgwIiwid2hpdGVsaXN0IjpbIjE3OS43LjIyNi44MCIsIjI4MDA6MjAwOmY1NzA6MWNlOmYwMmE6MjVlZDo5MWZkOjlhOTkiXX0sInNpZ25hdHVyZSI6ImQyODIwY2VjM2FlOWZlMTU0MzFmODQ1OTg5NWE0NTRmOWY4ZTYxYjMifQ%3D%3D
 #EXTINF:-1 tvg-id="KBOQuillabamba.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/OficialKBO/picture?width=320&height=320" group-title="Local",KBO Quillabamba
 https://cdnhd.iblups.com/hls/YGpW43RUOD.m3u8
 #EXTINF:-1 tvg-id="Latina.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Latina.pe/picture?width=320&height=320" group-title="Nacional",Latina
