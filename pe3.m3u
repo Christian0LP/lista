@@ -1,9 +1,9 @@
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Nacional",Panamericana TV
 https://stream-03.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFs9OxpkZtIMb8dKN1rAqTLs)/dm/3/x774s7s/s/live-3.m3u8#cell=lnyc
 #EXTINF:-1 tvg-id="ATV" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/800px-ATV_logo_2020.png" group-title="Nacional",ATV
-https://pe-atv-atv-live.ned.media/atv/smil:atv.smil/chunklist_b1024000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjMyMTAzMjg3LCJzZXNzaW9uIjoiMTc5LjcuMjI2LjgwIiwid2hpdGVsaXN0IjpbIjE3OS43LjIyNi44MCJdfSwic2lnbmF0dXJlIjoiMzQ0NzllMGIxZjQwNDVmZGQyMjM3YzYwNzhhNDUzYWRmODdiNzRlMiJ9
-#EXTINF:-1 tvg-id="ATV+" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV%2B_logo_2020.png" group-title="Nacional",ATV+  
 https://pe-atv-atv-live.ned.media:443/atv/smil:atv.smil/chunklist_b1024000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjMyMjQwMTU5LCJzZXNzaW9uIjoiMTc5LjcuMjI2LjgwIiwid2hpdGVsaXN0IjpbIjE3OS43LjIyNi44MCJdfSwic2lnbmF0dXJlIjoiN2Q4NDcyZmUwOTlmZDU2YmFhNWJhMDA0NTgwMWRmMGRkNjQ1YWM4MyJ9
+#EXTINF:-1 tvg-id="ATV+" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV%2B_logo_2020.png" group-title="Nacional",ATV+  
+https://pe-atv-atv-mas-live.ned.media:443/atv/smil:atv-mas.smil/chunklist_b1024000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNjMyMjQwNTYwLCJzZXNzaW9uIjoiMTc5LjcuMjI2LjgwIiwid2hpdGVsaXN0IjpbIjE3OS43LjIyNi44MCJdfSwic2lnbmF0dXJlIjoiY2MyZDNjODgxOTczOTA1NzM3MjBmNzA1ZmRkNjE4NTM5OWU1OTRiZCJ9
 #EXTINF:-1 tvg-id="KBOQuillabamba.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/OficialKBO/picture?width=320&height=320" group-title="Local",KBO Quillabamba
 https://cdnhd.iblups.com/hls/YGpW43RUOD.m3u8
 #EXTINF:-1 tvg-id="Latina.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Latina.pe/picture?width=320&height=320" group-title="Nacional",Latina
