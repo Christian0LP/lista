@@ -23,5 +23,5 @@ http://gratuita.mrzutv.net:8080/pruebaspruebas11093838/pruebaspruebas11093838/41
 #EXTINF:-1 tvg-id="PeMagico" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/per-mgico-en-vivo-1386.png" group-title="Sports",Peru Magico
 http://38.131.11.9:1080/play/a0dh
 #EXTINF:-1 tvg-id="Start action" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1200px-Star_Action_2020.svg.png" group-title="Sports",Start Action
-http://201.220.141.118:8000/play/a06b/index.m3u8
+http://cdn.stg.cvattv.com.ar/live/live2/FoxActionHD/SA_Live_fta/index.m3u8
 
