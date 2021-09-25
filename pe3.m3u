@@ -20,3 +20,5 @@ http://38.131.11.9:1080/play/a0d8
 http://gratuita.mrzutv.net:8080/pruebaspruebas11093838/pruebaspruebas11093838/41499
 #EXTINF:-1 tvg-id="ESPN2" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://deportes24.live/wp-content/uploads/2021/02/ESPN-2.png" group-title="Sports",ESPN 2
 http://gratuita.mrzutv.net:8080/pruebaspruebas11093838/pruebaspruebas11093838/41501
+#EXTINF:-1 tvg-id="PeMagico" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/per-mgico-en-vivo-1386.png" group-title="Sports",Peru Magico
+http://38.131.11.9:1080/play/a0dh
