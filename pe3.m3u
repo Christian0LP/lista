@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Nacional",Panamericana TV
-https://stream-01.dc3.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFlSDavl8mj7xHev9rflC1hM)/dm/3/x774s7s/s/live-2.m3u8
+https://stream-02.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFlL6nLkrMVgDFTWN71fyeLY)/dm/3/x774s7s/s/live-3.m3u8#cell=lnyc
 #EXTINF:-1 tvg-id="ATV" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/800px-ATV_logo_2020.png" group-title="Nacional",ATV
 https://pe-atv-atv-live.ned.media/atv/smil:atv.smil/chunklist_b850000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTg2NTM0OTc4LCJzZXNzaW9uIjoiNDYuMjYuNDkuMzUiLCJ3aGl0ZWxpc3QiOlsiNDYuMjYuNDkuMzUiXX0sInNpZ25hdHVyZSI6IjI1YzljZDhjZTIxMWQyOWU1N2RiMDI5OGNhMTRmYWNmYjFjMGJiNjgifQ%3D%3D
 #EXTINF:-1 tvg-id="ATV+" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV%2B_logo_2020.png" group-title="Nacional",ATV+  
@@ -16,12 +16,7 @@ https://cdnh8.iblups.com/hls/R9WtilpKKB.m3u8
 https://cdnh8.iblups.com/hls/RMuwrdk7M9.m3u8
 #EXTINF:-1 tvg-id="RPP.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/04/RPP_TV_-_2017_logo.png" group-title="Nacionales",RPP TV
 http://38.131.11.9:1080/play/a0d8
-#EXTINF:-1 tvg-id="ESPN" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://1000marcas.net/wp-content/uploads/2020/02/ESPN-S%C3%ADmbolo.jpg" group-title="Sports",ESPN
-http://gratuita.mrzutv.net:8080/pruebaspruebas11093838/pruebaspruebas11093838/41499
-#EXTINF:-1 tvg-id="ESPN2" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://deportes24.live/wp-content/uploads/2021/02/ESPN-2.png" group-title="Sports",ESPN 2
-http://gratuita.mrzutv.net:8080/pruebaspruebas11093838/pruebaspruebas11093838/41501
 #EXTINF:-1 tvg-id="PeMagico" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://www.televisiongratis.tv/components/com_televisiongratis/images/per-mgico-en-vivo-1386.png" group-title="Sports",Peru Magico
 http://38.131.11.9:1080/play/a0dh
-#EXTINF:-1 tvg-id="Start action" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Star_Action_2020.svg/1200px-Star_Action_2020.svg.png" group-title="Sports",Start Action
-http://cdn.stg.cvattv.com.ar/live/live2/FoxActionHD/SA_Live_fta/index.m3u8
+
 
