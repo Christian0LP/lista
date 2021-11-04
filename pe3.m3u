@@ -1,5 +1,5 @@
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Nacional",Panamericana TV
-https://stream-02.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFlL6nLkrMVgDFTWN71fyeLY)/dm/3/x774s7s/s/live-3.m3u8#cell=lnyc
+https://stream-04.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFodHGQui6WRtto-45cP8Ibc)/dm/3/x774s7s/s/live-3.m3u8#cell=lnyc
 #EXTINF:-1 tvg-id="ATV" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/800px-ATV_logo_2020.png" group-title="Nacional",ATV
 https://pe-atv-atv-live.ned.media/atv/smil:atv.smil/chunklist_b850000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTg2NTM0OTc4LCJzZXNzaW9uIjoiNDYuMjYuNDkuMzUiLCJ3aGl0ZWxpc3QiOlsiNDYuMjYuNDkuMzUiXX0sInNpZ25hdHVyZSI6IjI1YzljZDhjZTIxMWQyOWU1N2RiMDI5OGNhMTRmYWNmYjFjMGJiNjgifQ%3D%3D
 #EXTINF:-1 tvg-id="ATV+" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV%2B_logo_2020.png" group-title="Nacional",ATV+  
@@ -7,7 +7,7 @@ https://pe-atv-atv-mas-live.ned.media/atv/smil:atv-mas.smil/chunklist_b200000.m3
 #EXTINF:-1 tvg-id="KBOQuillabamba.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/OficialKBO/picture?width=320&height=320" group-title="Local",KBO Quillabamba
 https://cdnhd.iblups.com/hls/YGpW43RUOD.m3u8
 #EXTINF:-1 tvg-id="Latina.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Latina.pe/picture?width=320&height=320" group-title="Nacional",Latina
-https://mdstrm.com/live-stream-playlist/5ce7109c7398b977dc0744cd.m3u8
+https://live-latina-mdstrm.secure.footprint.net/live-stream-dai/319fed2157fa4c48ae2f81928b21f8a4/manifest/f624fec49dadc88894ebeff1d974eab019af7757/5ce7109c7398b977dc0744cd/77d3dd55-9253-44f7-8706-e7eeee1aafd2/3.m3u8?aid=5ce70c587398b977dc0743b5&uid=zn8bmsh2foocs88znlurvt2ozyw8ydwf&sid=jifky0esg6f6smjp3owtmw8i0coxvbhl&pid=lm1nen23jqbszp1isojtj132mhyevytw&ref=https%3a%2f%2fwww.latina.pe%2f&without_cookies=false&dnt=true&es=live-latina-mdstrm.secure.footprint.net&proto=https&pz=us&access_token=di3ldqyp1qv201pqm0xzunpi9grhsbg6aaze4h1p1udlherc46mk2rnieotjyzq7lqtr7gkrwxe&manifestfilter=video_height:240-480&hash=055ba4ab1a32549de66cc
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_PLAY.png" group-title="Nacional",TV Perú SD
 http://cdnh4.iblups.com/hls/irtp.m3u8
 #EXTINF:-1 tvg-id="TVPeru.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://www.tvperu.gob.pe/sites/all/themes/stability/images/logo_TVPE_PLAY.png" group-title="Nacional",TV Perú 2 SD 
