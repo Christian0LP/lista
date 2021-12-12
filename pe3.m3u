@@ -1,9 +1,9 @@
 #EXTINF:-1 tvg-id="PanamericanaTV.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://i.imgur.com/uQhEDES.png" group-title="Nacional",Panamericana TV
 https://stream-04.nyc.dailymotion.com/sec(mj562f6n9IrWiHyCluoeFodHGQui6WRtto-45cP8Ibc)/dm/3/x774s7s/s/live-3.m3u8#cell=lnyc
 #EXTINF:-1 tvg-id="ATV" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/ATV_logo_2020.png/800px-ATV_logo_2020.png" group-title="Nacional",ATV
-https://pe-atv-atv-live.ned.media/atv/smil:atv.smil/chunklist_b850000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTg2NTM0OTc4LCJzZXNzaW9uIjoiNDYuMjYuNDkuMzUiLCJ3aGl0ZWxpc3QiOlsiNDYuMjYuNDkuMzUiXX0sInNpZ25hdHVyZSI6IjI1YzljZDhjZTIxMWQyOWU1N2RiMDI5OGNhMTRmYWNmYjFjMGJiNjgifQ%3D%3D
+https://d2tr4gdfol9ja.cloudfront.net:443/atv/smil:atv.smil/chunklist_b1024000.m3u8
 #EXTINF:-1 tvg-id="ATV+" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/56/ATV%2B_logo_2020.png" group-title="Nacional",ATV+  
-https://pe-atv-atv-mas-live.ned.media/atv/smil:atv-mas.smil/chunklist_b200000.m3u8?iut=eyJwYXJhbXMiOnsiZXhwIjoxNTg2NjIxOTQwLCJzZXNzaW9uIjoiNDYuMjYuNDkuMzUiLCJ3aGl0ZWxpc3QiOlsiNDYuMjYuNDkuMzUiXX0sInNpZ25hdHVyZSI6ImIzZjgyN2UzOGMzYjM1M2ViOTQ4ZTExOTIxMjkxOTg4NTBkNDlkNDYifQ%3D%3D
+https://d2tr4gdfol9ja.cloudfront.net:443/atv/smil:atv-mas.smil/chunklist_b1024000.m3u8
 #EXTINF:-1 tvg-id="KBOQuillabamba.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/OficialKBO/picture?width=320&height=320" group-title="Local",KBO Quillabamba
 https://cdnhd.iblups.com/hls/YGpW43RUOD.m3u8
 #EXTINF:-1 tvg-id="Latina.pe" tvg-country="PE" tvg-language="Spanish" tvg-logo="https://graph.facebook.com/Latina.pe/picture?width=320&height=320" group-title="Nacional",Latina
